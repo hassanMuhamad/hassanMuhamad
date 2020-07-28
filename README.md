@@ -3,7 +3,7 @@
 <p>Welcome to my GitHub profile! </br> I'm <b>Hassan Muhamad</b> known as <b>Slayddder</b>, Fullstack developer from <img src="https://cdn.countryflags.com/thumbs/tunisia/flag-round-250.png" width="13"/> <b>Tunisia</b>, currently working as a <b>FreeLancer</b>. </p>
 
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white&labelColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -22,7 +22,7 @@
 </p>
 
 <p>
-<h3>Find me on:</h3>
+<h3>Find me on</h3>
 <p>
   <a href="https://twitter.com/slayddder" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hassan-muhamad-364aa5190" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

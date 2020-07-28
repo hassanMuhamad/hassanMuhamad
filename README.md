@@ -1,8 +1,5 @@
 ### Heyy there! 👋
 
-<!--
-**HassanMuhamad/HassanMuhamad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p>Welcome to my GitHub profile! </br> I'm Hassan Muhamad known as Slayddder, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Tunisia</b>, currently working as a <b>FreeLancer</b>. </p>
 
 <p>

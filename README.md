@@ -1,6 +1,6 @@
 ### Heyy there! 👋
 
-<p>Welcome to my GitHub profile! </br> I'm Hassan Muhamad known as Slayddder, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Tunisia</b>, currently working as a <b>FreeLancer</b>. </p>
+<p>Welcome to my GitHub profile! </br> I'm <b>Hassan Muhamad</b> known as <b>Slayddder</b>, Fullstack developer from <img src="https://cdn.countryflags.com/thumbs/tunisia/flag-round-250.png" width="13"/> <b>Tunisia</b>, currently working as a <b>FreeLancer</b>. </p>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />

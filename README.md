@@ -4,7 +4,7 @@ let about = {
   nickname: "Slayddder", // don't ask it's a long story...
   job: "web developer",
   location: "Sousse, Tunisia", // somewhere in Africa.
-  technologies: ["React", "Angular", "Node.js", "Laravel"],
+  technologies: ["React", "React Native", "Node.js"],
   interests: ["algorithms", "data structures", "design patterns"]
 };
 

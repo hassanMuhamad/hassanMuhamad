@@ -10,7 +10,7 @@ let about = {
 
 /*
 * @LinkedIn: hassan-muhamad
-* @Twitter: @slayddder
-* @Instagram: @slayddder
+* @Twitter: @hassanMuhamad_
+* @Instagram: @hassanMuhamad__
 */
 ```
